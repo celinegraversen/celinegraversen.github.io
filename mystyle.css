@@ -1,0 +1,10 @@
+body{
+    width: 960px;
+}
+
+a{text-decoration: none;
+}
+
+li{
+    display: inline;
+}
