@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3056c24a-b88a-43cb-bb70-89c4011ee6c4" name="Default" comment="Piccies">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Index.html" afterPath="$PROJECT_DIR$/Index.html" />
+    <list default="true" id="3056c24a-b88a-43cb-bb70-89c4011ee6c4" name="Default" comment="">
+      <change type="MOVED" beforePath="$PROJECT_DIR$/index2.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kontakt.html" afterPath="$PROJECT_DIR$/kontakt.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/omoss.html" afterPath="$PROJECT_DIR$/omoss.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/projekt.html" afterPath="$PROJECT_DIR$/projekt.html" />
     </list>
     <ignored path="celinegraversen.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -99,6 +103,7 @@
         <option value="$PROJECT_DIR$/projekt.html" />
         <option value="$PROJECT_DIR$/kontakt.html" />
         <option value="$PROJECT_DIR$/mystyle.css" />
+        <option value="$PROJECT_DIR$/index2.html" />
         <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
@@ -284,7 +289,13 @@
       <option name="project" value="LOCAL" />
       <updated>1464248499079</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Piccies">
+      <created>1464248688398</created>
+      <option name="number" value="00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1464248688398</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="ToolWindowManager">
